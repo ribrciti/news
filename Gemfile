@@ -16,6 +16,7 @@ gem "spring", group: :development
 gem 'devise', '~> 3.3.0'
 gem 'bootstrap-sass', '~> 3.3.4.1'
 gem 'acts_as_votable', '~> 0.10.0'
+gem 'simple_form', '~> 3.1.0'
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin]
